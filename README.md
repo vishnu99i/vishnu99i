@@ -1,4 +1,5 @@
-![logo](https://github.com/vishnu99i/vishnu99i/blob/master/MernStackImage.jpg)
+<img src="https://github.com/vishnu99i/vishnu99i/blob/master/MernBannerImage.png" width="1060" height="300">
+
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
