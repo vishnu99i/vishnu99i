@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu99i&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu99i" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://vishnu99i.github.io/PortfolioWebsite/](https://vishnu99i.github.io/PortfolioWebsite/)
+- 👨‍💻 All of my projects are available at [https://vishnu99i.github.io/PortfolioWebsite/](https://vishnu99i.github.io/NewPersonalWebsite/)
 
 - 📫 How to reach me **vishnupalakkat99@gmail.com**
 
